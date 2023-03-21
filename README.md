@@ -1,0 +1,1 @@
+# ts-next-serverless-fn-hello
