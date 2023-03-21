@@ -8,5 +8,6 @@ export default function handler(
     body: request.body,
     query: request.query,
     cookies: request.cookies,
+    env: process.env.MY_SECRET,
   });
 }
